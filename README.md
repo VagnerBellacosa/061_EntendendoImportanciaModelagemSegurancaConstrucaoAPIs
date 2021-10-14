@@ -1,6 +1,6 @@
 # LABs
 
-## 061_EntendendoImportanciaModelagemSeguran-aConstrucaoAPIs
+## 061_EntendendoImportanciaModelagemSegurancaConstrucaoAPIs
 
 Entendendo a Importância da Modelagem e Segurança na Construção de APIs
 
